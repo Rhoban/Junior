@@ -1,6 +1,8 @@
 
 # RoboCup Junior Soccer
 
+[Le règlement (2016)](http://rcj.robocup.org/rcj2016/soccer_2016.pdf)
+
 ## Terrain
 
 Ces plans peuvent être utilisés pour une sous-traitance (impression sur moquette):
