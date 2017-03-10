@@ -1,7 +1,7 @@
 
 # RoboCup Junior Soccer
 
-[Le règlement (2016)](http://rcj.robocup.org/rcj2016/soccer_2016.pdf)
+[Le règlement (2017)](http://rcj.robocup.org/rcj2017/soccer_2017.pdf)
 
 ## Terrain
 
